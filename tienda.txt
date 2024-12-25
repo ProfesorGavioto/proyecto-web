@@ -1,0 +1,4 @@
+Tienda online - V1 
+Catálogo inicial: 
+- Producto 1 
+- Producto 2
