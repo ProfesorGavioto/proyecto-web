@@ -1,8 +1,12 @@
 # Proyecto Web 
 Este proyecto simula un desarrollo colaborativo utilizando Git. 
-Contiene: - Una tienda online. - Un sistema de login. 
+Contiene: 
+- Una tienda online.
+- - Un sistema de login. 
  
-Desarrollado por: - **Equipo 1**: Tienda online. - **Equipo 2**: Sistema de login. 
+Desarrollado por: 
+- **Equipo 1**: Tienda online.
+- - **Equipo 2**: Sistema de login. 
  
 ## Cómo usar este repositorio 
 1. Clona el repositorio. 
